@@ -1,5 +1,5 @@
-# API Contatos Ponto System Web
+# Project Seed
 
-- Licenças
-- Usuários
-- Empresas
+- Express
+- Typescript
+- Tslint
